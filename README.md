@@ -2,7 +2,7 @@
  * @Author: 杨武硕
  * @Date: 2023-10-11 09:29:50
  * @LastEditors: 杨武硕
- * @LastEditTime: 2023-10-13 11:10:15
+ * @LastEditTime: 2023-10-13 14:14:07
  * @FilePath: /template/README.md
  * @Description: 
  * @Hint: 
@@ -80,6 +80,7 @@ lib
 ## 插件使用
 
 flutter_native_splash: ^2.3.1 # 开屏图片
+
 dio: ^5.3.2 # 网络请求
 logger: ^1.3.0 # 日志
 flutter_secure_storage: ^8.0.0 
